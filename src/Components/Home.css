@@ -1,0 +1,18 @@
+.tag{
+    color: whitesmoke;
+    margin: 2px 2px 2px 2px;
+    padding: 2px 2px 2px 2px;
+    position: relative;
+    top: 220px;
+    /* top: -1; */
+}
+
+.background{
+    object-fit: cover;
+    /* border: 2px solid rebeccapurple; */
+    width: 100%;
+    height: 575px;
+    bottom: 10px;
+    margin: -52px ;
+}
+

@@ -1,0 +1,19 @@
+.nav{
+    position: absolute;
+    top: 30px;
+}
+
+.nav ul {
+    display: flex;
+    list-style: none;
+}
+
+.item {            
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 1rem;
+    font-weight: 500;
+    margin: 12px 15px;
+    padding: 0px 15px;
+    /* cursor: pointer; */
+}
